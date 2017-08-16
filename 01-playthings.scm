@@ -6,13 +6,11 @@
 
 (define f01-10
   (run* (q)
-    U)
-  )
+    U))
 
 (define f01-11
   (run* (q)
-    (== #t q))
-  )
+    (== #t q)))
 
 (define f01-12
   (run* (q)
